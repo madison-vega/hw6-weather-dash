@@ -1,5 +1,19 @@
-.container {
-    position: absolute;
-    left: 0;
-    right: 0;
+body {
+    box-sizing: border-box;
 }
+
+
+
+
+.jumbotron {
+    text-align: center; 
+    border: 5px; 
+    border-style: solid; 
+    border-color: black
+}
+
+.body2 {
+    float: right;
+    margin-left: 50%;
+}
+

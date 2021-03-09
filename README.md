@@ -3,16 +3,20 @@
 
 ## Description
 
+This is a weather dashboard to search forecasts in different cities as well as other information.  This utilizes API calls from [OpenWeather API](https://openweathermap.org/api) to get the data.
+
 
 
 ## Usage
+
+You should be able to type a city into the search bar and get the current weather, UV index, and also a 5 day forecast.  It should also save that information for you to be able to navigate back if needed.
 
 
 
 ## Links
 
-This is a link to the live site:[Live Site]()
-This is a link to the repository:[Repo]()
+This is a link to the live site:[Live Site](https://madison-vega.github.io/hw6-weather-dash/index.html)
+This is a link to the repository:[Repo](https://github.com/madison-vega/hw6-weather-dash)
 
 
 ### License
